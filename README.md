@@ -1,7 +1,3 @@
-Voici une version plus **visuelle et engageante** de ton README, avec emojis, encadrés et une meilleure hiérarchisation du contenu, tout en gardant un ton accessible pour les débutants 👇
-
----
-
 # 🎯 Daily Objectives – Promo Dev Inté Lens P3
 
 > 📘 *Suivi jour par jour de la formation Développeur·se Intégrateur·rice Web – Simplon Lens*
